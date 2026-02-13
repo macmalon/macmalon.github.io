@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-**Dernière mise à jour : [13/02/2026]**
+**Dernière mise à jour : 13/02/2026**
 
 Cette politique de confidentialité s'applique à toutes les applications publiées par **Macmalon**, y compris **CEC Ninja** et **CEC Ninja Link**.
 
@@ -90,4 +90,4 @@ Cette politique de confidentialité peut être mise à jour à tout moment. Tout
 
 Pour toute question concernant cette politique de confidentialité :
 
-**[ton email de support]**
+**macmalon@duck.com**
