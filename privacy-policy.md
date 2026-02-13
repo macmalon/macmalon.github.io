@@ -1,3 +1,101 @@
+# Privacy Policy
+
+**Last updated: February 13, 2026**
+
+This Privacy Policy applies to all applications published by **Macmalon**, including **CEC Ninja** and **CEC Ninja Link**.
+
+We respect your privacy. This policy explains what information is used and for what purpose.
+
+---
+
+## 1. Data Collection
+
+Our applications **do not collect, store, or transmit any personal data**.
+
+In particular, we do not collect:
+
+* Name or surname
+* Email address
+* Location data
+* Device identifiers
+* Usage data
+* Contacts
+* Messages
+
+No data is sold, rented, or shared with third parties.
+
+---
+
+## 2. Permissions Used
+
+### Accessibility Service
+
+Our applications use the **Android Accessibility Service** solely to provide remote control key detection and mapping features for compatible devices.
+
+This service is strictly used to:
+
+* Detect key presses
+* Enable custom configuration
+* Improve device control
+
+The Accessibility Service is **never used to collect personal information, monitor user activity, analyze behavior, or capture text input.**
+
+All data processed through this service remains **local to your device** and is never transmitted externally.
+
+---
+
+### System Log Access
+
+Our applications may read certain system logs exclusively to identify hardware events related to HDMI-CEC key presses.
+
+This access is:
+
+* Strictly limited to technical events required for the application to function
+* Not used to analyze user behavior
+* Never transmitted to external servers
+
+No personal information is extracted from these logs.
+
+---
+
+## 3. Internet Connection
+
+Our applications do not require user accounts.
+
+If an internet connection is used, it is solely for essential technical functions (for example, license validation or access to premium features, if applicable).
+
+No personal data is sent to our servers.
+
+---
+
+## 4. Security
+
+Since no personal data is collected, privacy risks are extremely limited.
+
+---
+
+## 5. Children's Privacy
+
+Our applications are not specifically directed at children and do not knowingly collect any information from them.
+
+---
+
+## 6. Changes to This Policy
+
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page.
+
+---
+
+## 7. Contact
+
+If you have any questions about this Privacy Policy, you may contact us at:
+
+**[macmalon@duck.com](mailto:macmalon@duck.com)**
+
+---
+
+---
+
 # Politique de confidentialité
 
 **Dernière mise à jour : 13/02/2026**
@@ -90,4 +188,4 @@ Cette politique de confidentialité peut être mise à jour à tout moment. Tout
 
 Pour toute question concernant cette politique de confidentialité :
 
-**macmalon@duck.com**
+**[macmalon@duck.com](mailto:macmalon@duck.com)**
